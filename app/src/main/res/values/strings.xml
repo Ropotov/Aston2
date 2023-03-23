@@ -4,4 +4,11 @@
     <string name="count">Count</string>
     <string name="_0">0</string>
     <string name="hello">Hello!</string>
+    <string name="webSite">https://developer.android.com/</string>
+    <string name="open_website">open website</string>
+    <string name="location">Saratov</string>
+    <string name="open_location">open location</string>
+    <string name="hello_world">Hello world</string>
+    <string name="share_this_text">share this text</string>
+    <string name="take_a_picture">take a picture</string>
 </resources>
